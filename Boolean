@@ -1,0 +1,15 @@
+name='gunjit'
+is_cool = False
+is_cool =True
+print(bool(10))
+
+name='gunjit'
+
+relationship_status='single'
+relationship_status='It\'s complicated'
+print(relationship_status)
+
+
+birth_year=input('which year you were born')
+age=2021-int(birth_year)
+print(f'your age is :{age}')
